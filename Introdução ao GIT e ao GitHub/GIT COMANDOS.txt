@@ -1,0 +1,11 @@
+GIT
+cd local/ : ir ao diretório
+ls : listar
+tab : autocomplete
+cd .. : voltar
+mkrdir : criar pasta
+git init : iniciar git
+git status : ver o status
+git add * : confirmar alteração
+git commit -m " " : colocar mensagem e dar commit
+git push origin (main/master) : passar arquivo para o remoto (github)
