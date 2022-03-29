@@ -9,3 +9,4 @@ git status : ver o status
 git add * : confirmar alteração
 git commit -m " " : colocar mensagem e dar commit
 git push origin (main/master) : passar arquivo para o remoto (github)
+git pull origin (main/master) : resolver erro de merge
